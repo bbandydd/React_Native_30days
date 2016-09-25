@@ -6,8 +6,8 @@
 
 ## Days Layout
 
-![Days Layout](https://i.imgur.com/Mk2roZY.png)
+<img src="https://i.imgur.com/Mk2roZY.png" width="400" height="700" />
 
 ## All Icons
 
-![All Icons](https://i.imgur.com/0ZX2bj7.png)
+<img src="https://i.imgur.com/0ZX2bj7.png" width="400" height="700" />
